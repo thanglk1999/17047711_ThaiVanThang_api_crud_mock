@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "653452871071",
+    "project_id": "fir-646d7",
+    "storage_bucket": "fir-646d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653452871071:android:22b9989c1ff06915c129aa",
+        "android_client_info": {
+          "package_name": "com.thang.a17047711_thaivanthang_api_crud_mock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653452871071-5c43ke24gjiv9k9vigscdcnoj7uf0jgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thang.a17047711_thaivanthang_api_crud_mock",
+            "certificate_hash": "08a86e84a02418a57d6f7eb2b292516e422fb1ef"
+          }
+        },
+        {
+          "client_id": "653452871071-b2lsnluptrtjdcb0jeb48m7lm9bgj61k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlw7_Py0x_U5hJfhJrVVJopftjYbLOqWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653452871071-b2lsnluptrtjdcb0jeb48m7lm9bgj61k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
